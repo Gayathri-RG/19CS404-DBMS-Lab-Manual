@@ -2,7 +2,7 @@
 
 ## AIM
 To study and implement different types of joins.
-
+ 
 ## THEORY
 
 SQL Joins are used to combine records from two or more tables based on a related column.
