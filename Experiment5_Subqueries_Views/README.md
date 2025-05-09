@@ -322,6 +322,7 @@ where city = 'Paris');
 
 ![Screenshot 2025-04-29 211744](https://github.com/user-attachments/assets/2a0e9274-8d5d-40fd-8abc-65a8d7c78219)
 
+![Screenshot 2025-05-09 110033](https://github.com/user-attachments/assets/f027917e-b3c9-430f-a98d-ef5cf2c7df4c)
 
 
 ## RESULT
